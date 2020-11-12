@@ -4,7 +4,7 @@
  [![Twitter Badge](https://img.shields.io/badge/-twitter-1ca0f1?style=flat-square&logo=twitter&logoColor=white&link=https://twitter.com/)](https://twitter.com/)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
-#### i'm Youssef Azmil, i'm 23 years old, Engineer studant and Full-Stack developer from Morocco.
+#### i'm Youssef Amzil, i'm 23 years old, Engineer student and Full-Stack developer from Morocco.
 -  **Learning :** Full-Stack Development :zap: | Open-Source :fire:	
 -  **Languages :** Java, JavaScript
 -  **Hobbies :** Books & Music :headphones:
